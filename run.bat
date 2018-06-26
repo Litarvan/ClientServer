@@ -1,2 +1,3 @@
-node serverlogic
-pause
+@ECHO OFF
+node main.js
+PAUSE
